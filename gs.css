@@ -133,3 +133,20 @@ tr:nth-child(even)
     background-color: beige;
 
 }
+body
+{
+    background-image: url(images.jpg);
+
+}
+li{
+    display: inline;
+    float: left;
+    height: 20px;
+    width: 40px;
+    background-color: aqua;
+    border-right: 1px solid blueviolet;
+}
+li:hover
+{
+    background-color: rgb(234, 29, 29);
+}
