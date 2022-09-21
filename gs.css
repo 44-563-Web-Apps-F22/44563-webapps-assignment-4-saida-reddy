@@ -84,3 +84,21 @@
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: solid;
 }
+#singers
+ {
+    color: green;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    
+}
+
+tr:nth-child(even)
+{
+    background-color: beige;
+
+}
